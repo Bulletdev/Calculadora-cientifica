@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto é uma simulação em software da calculadora científica, implementada em Python usando a biblioteca Tkinter para a interface gráfica. A calculadora inclui funcionalidades básicas e avançadas, replicando a aparência e o comportamento da calculadora física .
 
-## Características
+## Características 
 - Interface gráfica fiel à calculadora Cientifica
 - Logo personalizada "Bullet" 
 - Funções matemáticas básicas e avançadas
