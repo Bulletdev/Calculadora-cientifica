@@ -60,8 +60,8 @@ Aqui estão algumas capturas de tela da calculadora em ação:
 <>
 ![Tela inicial](demo/tela_inicial.png)
 </>
-![Cálculo complexo](demo/calculo_complexo.png)
+![Cálculo complexo](demo/calc_complexo.png)
 <>
-![Modo científico](demo/bye.png)
+![Modo científico](demo/Bye.png)
 </>
 
