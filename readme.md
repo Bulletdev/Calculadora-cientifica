@@ -57,9 +57,11 @@ Este é um projeto de calculadora científica implementado em Python usando Tkin
 ## Demonstração
 
 Aqui estão algumas capturas de tela da calculadora em ação:
-
+<>
 ![Tela inicial](demo/tela_inicial.png)
+</>
 ![Cálculo complexo](demo/calculo_complexo.png)
+<>
 ![Modo científico](demo/bye.png)
+</>
 
-// ... resto do seu README ...
