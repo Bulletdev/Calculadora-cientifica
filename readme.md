@@ -49,3 +49,17 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ## Autor
 CraqueBullet
+
+# BULLET Calculator
+
+Este é um projeto de calculadora científica implementado em Python usando Tkinter.
+
+## Demonstração
+
+Aqui estão algumas capturas de tela da calculadora em ação:
+
+![Tela inicial](demo/tela_inicial.png)
+![Cálculo complexo](demo/calculo_complexo.png)
+![Modo científico](demo/bye.png)
+
+// ... resto do seu README ...
