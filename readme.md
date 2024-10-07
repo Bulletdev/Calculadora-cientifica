@@ -31,6 +31,8 @@ Este projeto é uma simulação em software da calculadora científica, implemen
    ```
    pip install Pillow
    ```
+4. Copie o arquivo bullet.png para a pasta C:\Users\ " " seu usuário " "
+      ```
 
 ## Uso
 Execute o script Python para iniciar a calculadora
